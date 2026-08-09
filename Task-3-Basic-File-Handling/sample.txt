@@ -1,3 +1,0 @@
-python is easy to learn.
-python is a powerful programming language.
-I am learning python.
